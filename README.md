@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditi Gupta</h1>
 <h3 align="center">A passionate frontend developer and UI/UX designer from India</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcbutuc&psig=AOvVaw0KP0rlhiTNlDX7_n4Dbkxc&ust=1716294810277000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDw-tCenIYDFQAAAAAdAAAAABAX" align="right" alt="coding" width="400">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" align="right" alt="coding" width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-gupta-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-gupta-dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi-gupta-dev" alt="aditi-gupta-dev" /></a> </p>
 
 - 🔭 I’m currently working on **Bloging page**
 
@@ -31,3 +28,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-gupta-dev&show_icons=true&locale=en" alt="aditi-gupta-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-gupta-dev&" alt="aditi-gupta-dev" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-gupta-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-gupta-dev" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi-gupta-dev" alt="aditi-gupta-dev" /></a> </p>
+
