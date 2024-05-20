@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditi-gupta-dev&show_icons=true&locale=en&layout=compact" alt="aditi-gupta-dev" margin="10px" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aditi-gupta-dev&show_icons=true&locale=en" alt="aditi-gupta-dev" margin="10px"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-gupta-dev&show_icons=true&locale=en" alt="aditi-gupta-dev" margin="10px"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-gupta-dev&" alt="aditi-gupta-dev" /></p>
 
