@@ -4,7 +4,7 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" align="right" alt="coding" width="350">
 
 
-- 🔭 I’m currently working on **Bloging page**
+- 🔭 I’m currently working on **Blogging page**
 
 - 🌱 I’m currently learning **Backend development.**
 
@@ -26,8 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditi-gupta-dev&show_icons=true&locale=en&layout=compact" alt="aditi-gupta-dev" margin="10px" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-gupta-dev&show_icons=true&locale=en" alt="aditi-gupta-dev" margin="10px"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-gupta-dev&" alt="aditi-gupta-dev" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-gupta-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-gupta-dev" /> </p>
 
